@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300921853211",
+    "project_id": "michel-project-univ",
+    "storage_bucket": "michel-project-univ.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300921853211:android:433b364c69aa04964b2fbe",
+        "android_client_info": {
+          "package_name": "com.mobile.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB50YuXr3v5sKXuMMiRZb4JnSY4dLHkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
